@@ -1,7 +1,7 @@
 import pandas as pd
 
 # data of original sales
-sales = pd.read_csv("sales.csv")
+sales = pd.read_csv("data/sales.csv")
 
 # data of weather sample
 weather = pd.DataFrame(
